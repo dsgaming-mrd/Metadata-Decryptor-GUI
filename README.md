@@ -8,6 +8,12 @@ A high-performance, standalone Windows utility designed to parse and decrypt glo
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="Metadata Decryptor GUI Screenshot" width="70%">
+</p>
+
+---
+
 ## 🚀 How to Use
 
 1. Launch the application (`.exe`).
