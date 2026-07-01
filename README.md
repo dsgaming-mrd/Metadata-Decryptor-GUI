@@ -2,13 +2,13 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0088ff)
 ![Architecture](https://img.shields.io/badge/arch-x64%20%7C%20x86-0088ff)
-![Target](https://img.shields.io/badge/version-Unity%20v29-0088ff)
+![Target](https://img.shields.io/badge/version-Metadata%20v29-0088ff)
 
 A high-performance, standalone Windows utility designed to parse and decrypt global metadata structures from binary files. 
 
 ---
 
-## 🚀 How to Use (Cách sử dụng)
+## 🚀 How to Use
 
 1. Launch the application (`.exe`).
 2. Click the **Browse** button to open the file explorer and select your target `global-metadata.dat` file.
@@ -17,7 +17,7 @@ A high-performance, standalone Windows utility designed to parse and decrypt glo
 
 ---
 
-## ⚠️ Important Notice (Lưu ý quan trọng)
+## ⚠️ Important Notice
 
 * **Supported Version Only:** This tool currently supports **Metadata Version 29** exclusively.
 * **Magic Hex Validation:** The engine strictly validates the file header against the specific Magic Hex: `AF 1B B1 EA`
